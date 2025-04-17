@@ -1,6 +1,6 @@
 # MultiPass U-Net for Medical Image Segmentation
 
-This repository contains a Jupyter Notebook implementing a **MultiPass U-Net** architecture, designed for enhanced segmentation performance on medical or histopathological images. The multi-pass mechanism allows the model to iteratively refine predictions by processing the input through multiple U-Net passes, improving delineation of fine structures and rare regions.
+This repository contains a Jupyter Notebook implementing a **MultiPass U-Net** architecture, designed for enhanced segmentation performance on medical or histopathological images. The multi-pass mechanism allows the model to iteratively refine predictions by processing the input through multiple U-Net passes, improving delineation of fine structures and rare regions. I used CTPEL dataset of hip CT scans
 
 ---
 
